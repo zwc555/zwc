@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <g fill="#ffffff" stroke="#16264f" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+    <!-- 食指（指尖即光标热点，位于左上角） -->
+    <rect x="6" y="2" width="5" height="14" rx="2.5"/>
+    <!-- 中指 / 无名指 / 小指 -->
+    <rect x="11.5" y="8" width="5" height="10" rx="2.5"/>
+    <rect x="17" y="10" width="5" height="9" rx="2.5"/>
+    <rect x="22" y="12" width="5" height="8" rx="2.5"/>
+    <!-- 拇指 -->
+    <rect x="1.5" y="13" width="9" height="5" rx="2.5" transform="rotate(-35 6 15.5)"/>
+    <!-- 手掌 -->
+    <path d="M7 14 h15 a5 5 0 0 1 5 5 v3 a5 5 0 0 1 -5 5 h-10 a5 5 0 0 1 -5 -5 z"/>
+  </g>
+  <!-- 黄色袖口 -->
+  <rect x="9" y="26" width="14" height="5" rx="2" fill="#ffcb05" stroke="#16264f" stroke-width="2"/>
+  <!-- 食指指尖高亮 -->
+  <rect x="7.5" y="3.5" width="2" height="6" rx="1" fill="#a9e2ff"/>
+</svg>
